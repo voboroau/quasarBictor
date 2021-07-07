@@ -11,9 +11,9 @@
           @click="toggleLeftDrawer"
         />
 
-        <q-toolbar-title> Victor Oboro </q-toolbar-title>
+        <q-toolbar-title> Victor Oboro birthsuite </q-toolbar-title>
 
-        <div>Quasar v{{ $q.version }}</div>
+        <div>Just version{{ $q.version }}</div>
       </q-toolbar>
     </q-header>
 
